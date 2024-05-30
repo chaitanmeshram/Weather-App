@@ -29,20 +29,8 @@ The Django Weather App is a web application designed to provide users with accur
 - **OpenWeather API**: A robust weather API that provides access to accurate and up-to-date weather data worldwide.
 - **HTML/CSS/JavaScript**: Frontend technologies used for designing the user interface and adding interactivity.
 - **Bootstrap**: A popular frontend framework for building responsive and mobile-first websites.
-- **SQLite/PostgreSQL**: Database management systems used for storing user data, preferences, and weather information.
-- **Git/GitHub**: Version control system and code repository for collaborative development and project management.
 
 **Future Enhancements**:
 
-- **Geolocation**: Implementing geolocation functionality to automatically detect the user's location and display relevant weather information.
-- **Weather Alerts**: Introducing real-time weather alerts and notifications for severe weather conditions, ensuring user safety and preparedness.
 - **Multi-Language Support**: Adding support for multiple languages to cater to a diverse user base worldwide.
 - **Historical Data**: Incorporating historical weather data for analysis and trend tracking, providing valuable insights to users.
-
-**GitHub Repository**:
-
-The source code for the Django Weather App is available on GitHub, allowing developers to contribute, collaborate, and customize the application to suit their needs. Visit the repository [here](https://github.com/yourrepository).
-
----
-
-Feel free to adjust any part of this description to better fit your project's specifications!
