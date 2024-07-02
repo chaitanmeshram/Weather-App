@@ -13,7 +13,7 @@ def index(request):
         try:
             # Ensure the city name is URL-encoded to handle spaces and special characters
             city_encoded = quote(city)
-            url = f'http://api.openweathermap.org/data/2.5/weather?q={city_encoded}&appid=fe44a1aa398ab4ff31e1fec97b09ca9f'
+            url = f'http://api.openweathermap.org/data/2.5/weather?q={city_encoded}&appid= api key '
             res = urllib.request.urlopen(url).read()
             json_data = json.loads(res)
 
